@@ -2,7 +2,7 @@
 # Heterogeneous and Dynamic Aware Spatio-Temporal Learning for Route-based Travel Time Estimation
 This a framework called HDTTE to incorporate the heterogeneous and dynamic informa- tion of spatio-temporal traffic for effective travel time estimation.
 ## Environment
-- python 3.7.4
+- python 3.9.7
 - torch 1.2.0
 - numpy 1.17.2
 ## Dataset
