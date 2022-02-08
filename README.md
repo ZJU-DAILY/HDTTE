@@ -13,8 +13,8 @@ If needed, the origin dataset of PEMSD4 and PEMSD8 are available from [ASTGCN](h
 Step 2: Put them into data directories.
 ## Train command
     # Train with Wuhan dataset
-    python train.py --data=WUHAN --is_train
+    python run.py --data=WUHAN --is_train
     
     # Train with Beijing dataset
-    python train.py --data=BJ --is_train
+    python run.py --data=BJ --is_train
     
